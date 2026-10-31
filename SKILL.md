@@ -1,6 +1,6 @@
 # jstachio.annotation Skill
 
-Use this skill to work with Norm module `jstachio.annotation` version 3. Use only declarations listed below.
+Use this skill to work with Norm module `jstachio.annotation` version 4. Use only declarations listed below.
 
 ## `jstachio.annotation`
 
